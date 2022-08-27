@@ -2,7 +2,7 @@
 Lauren-s-Furniture-Store-Transaction-Table Data Analysis
 
 
-### Columns<br>
+<h4>Columns</h4>
 <ul><li>date</li>
 <li>transaction_id</li> 
 <li>customer_id</li>
